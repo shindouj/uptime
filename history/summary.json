@@ -95,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mozhi.jeikobu.net.ico",
     "slug": "mozhi-translation-services",
     "status": "up",
-    "uptime": "0.72%",
-    "uptimeDay": "0.72%",
-    "uptimeWeek": "0.72%",
-    "uptimeMonth": "0.72%",
-    "uptimeYear": "0.72%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 545,
     "timeDay": 545,
     "timeWeek": 545,
     "timeMonth": 545,
     "timeYear": 545,
-    "dailyMinutesDown": {
-      "2024-12-02": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OpenTogetherTube",
