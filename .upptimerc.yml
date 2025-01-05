@@ -15,6 +15,8 @@ sites:
     url: https://dumb.jeikobu.net
   - name: Mozhi (translation services)
     url: https://mozhi.jeikobu.net
+  - name: Rimgo (for Imgur)
+    url: https://rimgo.jeikobu.net
   - name: OpenTogetherTube
     url: https://watchtogether.jeikobu.net
   - name: Chihiro Paste
