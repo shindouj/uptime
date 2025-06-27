@@ -1,7 +1,7 @@
 url: https://search.jeikobu.net
-status: up
-code: 200
-responseTime: 1430
-lastUpdated: 2025-06-26T23:20:12.880Z
+status: down
+code: 502
+responseTime: 4155
+lastUpdated: 2025-06-27T22:37:23.950Z
 startTime: 2024-12-02T00:23:43.173Z
 generator: Upptime <https://github.com/upptime/upptime>
