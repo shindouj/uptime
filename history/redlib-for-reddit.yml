@@ -1,7 +1,7 @@
 url: https://redlib.jeikobu.net
-status: up
-code: 200
-responseTime: 772
-lastUpdated: 2025-07-08T23:21:27.253Z
+status: down
+code: 502
+responseTime: 3800
+lastUpdated: 2025-07-09T16:19:27.465Z
 startTime: 2024-12-02T00:23:44.948Z
 generator: Upptime <https://github.com/upptime/upptime>
