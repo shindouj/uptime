@@ -1,7 +1,7 @@
 url: https://libremdb.jeikobu.net
-status: up
-code: 200
-responseTime: 853
-lastUpdated: 2025-10-16T13:53:53.174Z
+status: down
+code: 502
+responseTime: 4003
+lastUpdated: 2025-10-16T13:59:33.043Z
 startTime: 2024-12-02T00:23:48.372Z
 generator: Upptime <https://github.com/upptime/upptime>
