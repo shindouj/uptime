@@ -1,7 +1,7 @@
 url: https://p.chihi.ro
-status: up
-code: 200
-responseTime: 614
-lastUpdated: 2025-11-24T15:33:35.995Z
+status: down
+code: 502
+responseTime: 3932
+lastUpdated: 2025-11-24T16:04:35.750Z
 startTime: 2024-12-02T00:23:55.634Z
 generator: Upptime <https://github.com/upptime/upptime>
