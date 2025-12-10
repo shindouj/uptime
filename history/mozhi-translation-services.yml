@@ -1,7 +1,7 @@
 url: https://mozhi.jeikobu.net
-status: up
-code: 200
-responseTime: 793
-lastUpdated: 2025-12-10T04:56:38.930Z
+status: down
+code: 502
+responseTime: 3683
+lastUpdated: 2025-12-10T05:39:26.255Z
 startTime: 2024-12-02T00:23:52.052Z
 generator: Upptime <https://github.com/upptime/upptime>
