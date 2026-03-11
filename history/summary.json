@@ -309,18 +309,19 @@
     "url": "https://mozhi.jeikobu.net",
     "icon": "https://icons.duckduckgo.com/ip3/mozhi.jeikobu.net.ico",
     "slug": "mozhi-translation-services",
-    "status": "up",
+    "status": "down",
     "uptime": "93.29%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.45%",
+    "uptimeYear": "91.46%",
     "time": 1862,
     "timeDay": 590,
     "timeWeek": 656,
     "timeMonth": 651,
     "timeYear": 1952,
     "dailyMinutesDown": {
+      "2026-03-11": 0,
       "2026-01-27": 19,
       "2026-01-13": 598,
       "2026-01-12": 1440,
@@ -358,7 +359,7 @@
       "2025-12-11": 415,
       "2025-12-10": 447,
       "2025-12-09": 498,
-      "2025-12-08": 89
+      "2025-12-08": 49
     }
   },
   {
