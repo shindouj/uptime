@@ -78,17 +78,17 @@
     "url": "https://redlib.jeikobu.net",
     "icon": "https://icons.duckduckgo.com/ip3/redlib.jeikobu.net.ico",
     "slug": "redlib-for-reddit",
-    "status": "up",
+    "status": "down",
     "uptime": "94.75%",
-    "uptimeDay": "25.88%",
+    "uptimeDay": "25.92%",
     "uptimeWeek": "54.13%",
     "uptimeMonth": "87.87%",
     "uptimeYear": "92.82%",
-    "time": 2469,
-    "timeDay": 1898,
-    "timeWeek": 2144,
-    "timeMonth": 2510,
-    "timeYear": 2597,
+    "time": 2468,
+    "timeDay": 1903,
+    "timeWeek": 2123,
+    "timeMonth": 2495,
+    "timeYear": 2594,
     "dailyMinutesDown": {
       "2026-04-15": 60,
       "2026-04-14": 1067,
@@ -165,8 +165,7 @@
       "2025-06-26": 1007,
       "2025-06-25": 1175,
       "2025-06-24": 237,
-      "2025-06-19": 20,
-      "2025-06-12": 19
+      "2025-06-19": 20
     }
   },
   {
